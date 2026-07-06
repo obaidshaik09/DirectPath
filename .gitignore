@@ -1,0 +1,5 @@
+DirectPath.Api/.env
+DirectPath.Api/bin/
+DirectPath.Api/obj/
+directpath-react/node_modules/
+directpath-react/dist/
